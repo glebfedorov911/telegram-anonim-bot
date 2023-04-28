@@ -2,7 +2,7 @@ import telebot
 from database import *
 from random import randint
 #yes i know a lot of problem with db, but it's first project, in future i repair it
-token = '5885962802:AAGI_7g1JxdXX67qXZ_8UMxsBcExLxLC70s'
+token = 'token'
 
 bot = telebot.TeleBot(token)
 
